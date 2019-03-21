@@ -31,6 +31,13 @@ export class HomePage {
         'description': 'The latest version of the web\'s markup language.',
         'color': '#F46529',
         'page': 'RestaurantsPage'
+      },
+      {
+        'title': 'tour',
+        'icon': 'restaurant',
+        'description': 'The latest version of the web\'s markup language.',
+        'color': '#F46529',
+        'page': 'TourPage'
       }
     ]
 
